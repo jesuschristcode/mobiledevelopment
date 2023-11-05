@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+
+        android:visible="true"
+        android:title="Back"
+        android:icon="@drawable/ic_action_back"
+        app:showAsAction="always" />
+    <item
+
+        android:visible="true"
+        android:title="Forward"
+        android:icon="@drawable/ic_action_forward"
+        app:showAsAction="always" />
+    <item
+
+        android:icon="@drawable/ic_action_home"
+        android:visible="true"
+        android:title="Home"
+        app:showAsAction="always"/>
+</menu>
